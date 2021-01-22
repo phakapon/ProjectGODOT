@@ -1,2 +1,0 @@
-# ProjectGODOT
-Basic GODOT
